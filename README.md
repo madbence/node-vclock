@@ -1,4 +1,4 @@
-# vclock
+# vclock [![Build Status](https://travis-ci.org/madbence/node-vclock.svg)](https://travis-ci.org/madbence/node-vclock)
 
 Vector clock implementation in js.
 [Vector clocks](http://en.wikipedia.org/wiki/Vector_clock) can be used to generate
