@@ -1,0 +1,28 @@
+{
+  "name": "vclock",
+  "version": "1.0.0",
+  "description": "Vector clock implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/madbence/node-vclock"
+  },
+  "keywords": [
+    "vector",
+    "clock",
+    "distributed"
+  ],
+  "author": "Bence Dányi <bence@danyi.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madbence/node-vclock/issues"
+  },
+  "homepage": "https://github.com/madbence/node-vclock",
+  "devDependencies": {
+    "mocha": "^1.20.1",
+    "should": "^4.0.4"
+  }
+}
