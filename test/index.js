@@ -27,7 +27,7 @@ describe('Clock', function() {
       c.get('bar').should.equal(123);
     });
   });
-  describe('update', function() {
+  describe('.update', function() {
     it('should increment local time', function() {
       var c = new Clock('foo');
       var d = new Clock('bar');
